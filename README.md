@@ -1,7 +1,7 @@
 # Parkinson Prediction
 
 ## Aim of project
-This project aims to make and compare machine learning algorithms in classifying parkinson from healthy individuals based on different features.
+This project aims to make and compare machine learning models in classifying parkinson from healthy individuals based on different features.
 
 ## Source of data
 Data were found on physionet.org in Gait in Parkinson's Disease database. 
