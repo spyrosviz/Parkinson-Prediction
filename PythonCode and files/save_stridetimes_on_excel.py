@@ -5,10 +5,10 @@ import glob
 import matplotlib.pyplot as plt
 
 # set input path
-path = r"C:\Users\spyro\OneDrive\Documents\ΣΠΥΡΟΣ\Pycharm Projects\Github\Parkinson stage prediction\Walks"
+path = r"Walks"
 
 # get all txts from folder named Walks
-filenames = glob.glob(path + "/*01.txt")
+filenames = glob.glob(path + "/*.txt")
 
 # dictionary to append timeseries data of each individual
 dictionary = {}
